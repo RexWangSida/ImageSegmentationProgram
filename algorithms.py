@@ -4,7 +4,6 @@ import numpy as np
 from sklearn.cluster import KMeans, MiniBatchKMeans
 
 def segmentation(imageDir, k, saveDir):
-    print(imageDir)
     img = io.imread(imageDir)
     dim = {
         'height': img.shape[0],
