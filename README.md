@@ -57,29 +57,29 @@ python frame.py
 ### One Segment(One Cluster k == 1)
 <div align='center'><img src='1.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 2)
+### Two Segments(Two Clusters k == 2)
 <div align='center'><img src='2.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 3)
+### Three Segments(Three Clusters k == 3)
 <div align='center'><img src='3.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 4)
+### Four Segments(Four Clusters k == 4)
 <div align='center'><img src='4.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 5)
+### Five Segments(Five Clusters k == 5)
 <div align='center'><img src='5.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 6)
+### Six Segments(Six Clusters k == 6)
 <div align='center'><img src='6.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 7)
+### Seven Segments(Seven Clusters k == 7)
 <div align='center'><img src='7.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 8)
+### Eight Segments(Eight Clusters k == 8)
 <div align='center'><img src='8.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 9)
+### Nine Segments(Nine Clusters k == 9)
 <div align='center'><img src='9.jpg' width=70%></img></div>
 
-### One Segment(One Cluster k == 10)
+### Ten Segments(Ten Clusters k == 10)
 <div align='center'><img src='10.jpg' width=70%></img></div>
