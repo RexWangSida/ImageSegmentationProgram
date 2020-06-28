@@ -74,3 +74,12 @@ python frame.py
 
 ### One Segment(One Cluster k == 7)
 <div align='center'><img src='7.jpg' width=70%></img></div>
+
+### One Segment(One Cluster k == 8)
+<div align='center'><img src='8.jpg' width=70%></img></div>
+
+### One Segment(One Cluster k == 9)
+<div align='center'><img src='9.jpg' width=70%></img></div>
+
+### One Segment(One Cluster k == 10)
+<div align='center'><img src='10.jpg' width=70%></img></div>
