@@ -2,8 +2,15 @@ from skimage import io
 from tkinter import *
 import numpy as np
 from sklearn.cluster import KMeans, MiniBatchKMeans
-
+import os
+from PIL import Image
 def segmentation(imageDir, k, saveDir):
+
+    img = Image.open(imageDir)
+    if img.mode != 'RGB':
+        rgb = img.convert('RGB')
+        rgb.save(imageDir)
+
     img = io.imread(imageDir)
     dim = {
         'height': img.shape[0],
@@ -12,8 +19,6 @@ def segmentation(imageDir, k, saveDir):
         'pixels': img.shape[0]*img.shape[1],
     }
     dataMat = (img/255.0).reshape(dim['pixels'],3)
-
-
     kmeans = MiniBatchKMeans(k).fit(dataMat)
     kColors = kmeans.cluster_centers_[kmeans.predict(dataMat)]
 

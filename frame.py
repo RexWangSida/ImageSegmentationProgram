@@ -17,7 +17,7 @@ def start(newWin = False):
 
     def loadImg():
         global READPATH, image1
-        READPATH =  filedialog.askopenfilename(initialdir = "/",title = "Select file",filetypes = (("jpeg files","*.jpg"),("all files","*.*")))
+        READPATH =  filedialog.askopenfilename(initialdir = "/",title = "Select file",filetypes = (("PNG files","*.png"),("JPG files","*.jpg"),("all files","*.*")))
         filenameLabel = Label( text="  Image to be segmented:   " + READPATH)
         filenameLabel.grid(row = 1, column = 2)
         image = Image.open(READPATH)
