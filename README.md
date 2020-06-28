@@ -37,13 +37,10 @@ pip install scikit-image
 ```
 - To start the program, sequentially run:
 ```shell
-git clone https://github.com/RexWangSida/CraftMaster.git
+git clone https://github.com/RexWangSida/ImageSegmentationProgram.git
 ```
 ```shell
-cd CraftMaster/CraftMasterGame/src
-```
-```shell
-python main.py
+python frame.py
 ```
 ## GUI
 <div align='center'><img src='frame1.png' width=70%></img></div>
