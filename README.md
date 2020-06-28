@@ -11,9 +11,9 @@ Small **Python** program performing image segmentation using **k-means clusterin
 - **Numpy**
   - Provides matrix operations
 - **Pillow(PIL)**
-  - Support image convert
+  - Supports image convert
 - **Tkinter**
-  - Graphing GUI
+  - Implements GUI
 
 ## GUI
 <div align='center'><img src='frame1.png' width=70%></img></div>
