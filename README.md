@@ -51,4 +51,5 @@ python frame.py
 <div align='center'><img src='frame3.png' width=70%></img></div>
 
 ## Examples of the image processing
-
+### Original Image
+<div align='center'><img src='photo.jpg' width=70%></img></div>
