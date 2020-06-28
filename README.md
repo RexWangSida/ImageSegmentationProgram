@@ -1,4 +1,4 @@
-# Image Segmentation Processor
+# Image Segmentation Program
 Small program performing image segmentation using k-means clustering algorithm
 
 ## GUI
