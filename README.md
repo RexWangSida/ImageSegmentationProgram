@@ -1,5 +1,5 @@
 # Image Segmentation Program
-Small program performing image segmentation using k-means clustering algorithm
+Small program performing image segmentation using **k-means clustering algorithm**
 
 ## GUI
 <div align='center'><img src='frame1.png' width=70%></img></div>
