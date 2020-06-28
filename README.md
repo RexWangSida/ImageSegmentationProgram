@@ -53,5 +53,6 @@ python frame.py
 ## Examples of the image processing
 ### Original Image
 <div align='center'><img src='photo.jpg' width=70%></img></div>
+
 ### One Segment(One Cluster k == 1)
-<div align='center'><img src='photo.jpg' width=70%></img></div>
+<div align='center'><img src='1.jpg' width=70%></img></div>
