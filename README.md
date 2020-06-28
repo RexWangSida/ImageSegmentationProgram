@@ -7,13 +7,13 @@ Small **Python** program performing image segmentation using **k-means clusterin
 
 ### External Python Libraries
 - **Scikit-Learn & Scikit-Image**
-  - Provides basics of k-means algorithm and image image loading.
+  - Basic usage of k-means algorithm and image image loading.
 - **Numpy**
-  - Provides matrix operations
+  - Matrix operations
 - **Pillow(PIL)**
-  - Supports image convert
+  - Image convert
 - **Tkinter**
-  - Implements GUI
+  - GUI
 
 ## GUI
 <div align='center'><img src='frame1.png' width=70%></img></div>
