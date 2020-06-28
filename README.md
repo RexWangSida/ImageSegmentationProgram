@@ -40,6 +40,9 @@ pip install scikit-image
 git clone https://github.com/RexWangSida/ImageSegmentationProgram.git
 ```
 ```shell
+cd ImageSegmentationProgram
+```
+```shell
 python frame.py
 ```
 ## GUI
