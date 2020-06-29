@@ -73,9 +73,9 @@ def destroyall():
     rvpImage.place_forget()
 
 window = Tk()
-window.title("Image Segmentation Processor")
+window.title("Image Segmentation Program")
 window.geometry("800x800")
-startLabel1 = Label(text="Image Segmentation Processor",font=tkFont.Font(family='Impact', size=20))
+startLabel1 = Label(text="Image Segmentation Program",font=tkFont.Font(family='Impact', size=20))
 startLabel2 = Label(text="based on K-Means Clustering Algorithm",font=tkFont.Font(family="Lucida Grande", size=10))
 startLabel1.place(relx=0.5, rely=0.2, anchor=CENTER)
 startLabel2.place(relx=0.5, rely=0.3, anchor=CENTER)
